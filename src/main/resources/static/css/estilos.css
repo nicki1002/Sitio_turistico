@@ -51,6 +51,17 @@
     padding-left: 15px;
     overflow: auto;
 }
+#Vcontenido{
+    position:absolute;
+    width: 100%;
+    top: 12%;
+    left: 0%;
+    height: 81%;
+    background-color:indianred;
+    color: black;
+    padding-left: 15px;
+    overflow: auto;
+}
 
 #piePagina{
     position: absolute;
