@@ -10,7 +10,7 @@ body{
 }
 
 .header{
-    background:lightgreen;
+    background:aliceblue;
     height: 12%;
     top: 0;
     left: 0;
@@ -60,7 +60,7 @@ body{
 }
 
 .nav-menu-link:hover{
-    background:lightseagreen;
+    background:indianred;
     transition: 0.7s;
 }
 

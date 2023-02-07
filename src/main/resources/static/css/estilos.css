@@ -51,6 +51,7 @@
     padding-left: 15px;
     overflow: auto;
 }
+
 #Vcontenido{
     position:absolute;
     width: 100%;
@@ -69,7 +70,7 @@
     left: 0;
     height: 7%;
     width: 100%;
-    background-color:green;
+    background-color:aliceblue;
     color: black;
     padding-left: 15px;
     text-align: center;
@@ -77,26 +78,26 @@
 
 #piePagina address{
     display: inline;
-    }
-    
-    #encabezadoTabla{
+}
+
+#encabezadoTabla{
     font-size: 20px;
-    background-color: darkorchid;
-    color: gold;
-    
+    background-color:white;
+    color: black;
+
 }
- #tablaResumen tr:nth-child(odd){
-    background-color: coral;
+#tablaResumen tr:nth-child(odd){
+    background-color: green;
     color: white;
-    
+
 }
- #tablaResumen tr:nth-child(even){
+#tablaResumen tr:nth-child(even){
     background-color: white;
-    color: darkslateblue;
-    
+    color: black;
+
 }
 #tablaResumen tr{
     font-size: 25px;
     font-weight: bolder;
-    
+
 }
